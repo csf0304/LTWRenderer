@@ -1,5 +1,5 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![GPLv3 Logo]](https://www.gnu.org/graphics/gplv3-rounded-red-180x60.jpg)
+![GPLv3 Logo](https://www.gnu.org/graphics/gplv3-rounded-red-180x60.jpg)
 [zh_CN] [en_US](./README.md)
 # 适用于 Zalith Launcher 的 LTW Renderer插件
 ## 关于开源协议

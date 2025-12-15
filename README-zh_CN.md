@@ -5,7 +5,7 @@
 ## 关于开源协议
 此项目基于 [ZalithLauncher/RendererPlugin](https://github.com/ZalithLauncher/RendererPlugin) 开发, 使用GPLv3协议开源. GPLv3协议明确规定, 基于GPLv3协议修改的项目, 必须使用GPLv3协议开源.
 ## 安装方式
-前往 [Release](https://github.com/csf0304/LTWRenderer/release) 下载适用于使用设备的版本即可.
+前往 [Release](https://github.com/csf0304/LTWRenderer/releases) 下载适用于使用设备的版本即可.
 安装完成后, 打开 Zalith Launcher , 就可以看到刚刚安装的渲染器.
 ## 修改源码
 ### 1.克隆此项目
